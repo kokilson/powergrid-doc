@@ -114,7 +114,7 @@ php artisan powergrid:publish --type=stub
 ```
 
 
-## Create with template
+## Create with templatee
 
 `--template`=full location of the stub template
 
